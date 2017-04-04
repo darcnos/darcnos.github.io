@@ -1,2 +1,1 @@
-# darcnos.github.io
-My lads
+# darcnos.github.io.MYLADS
